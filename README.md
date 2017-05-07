@@ -6,7 +6,7 @@
 3.  **Creating an Azure Storage Account:** Creating an Azure Storage Account will require a resource group. Use `New-AzureRmStorageAccount` to create a new Azure Storage. The parameters can be given in a single line. If not given it will prompt you for each parameter. The following are the possible parameters:
 
 | Parameter                   | Description        |
-|-----------------------------|-----------------------------|
+|-----------------------------|--------------------|
 | **-ResourceGroupName**      | A resource group to group this Azure asset into.     |
 | **-Name**                   | Globally unique name for your blob storage. Name must be between 3 and 24 characters in length and use numbers and lower-case letters only.     |
 | **-SkuName**                | The replication desired in your storage account. A full table is listed below of storage SKUs.      |
