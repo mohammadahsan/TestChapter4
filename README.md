@@ -10,7 +10,7 @@
     <thead>
         <tr>
         <th width = "22%" >Parameter</th>
-        <th style="width:70%">Description </th>
+        <th>Description </th>
         </tr>
         <tr>
         <th align ="left">-ResourceGroupName</th>
